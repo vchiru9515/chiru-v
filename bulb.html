@@ -1,0 +1,24 @@
+<html>
+<head><title>BULB</title>
+<link rel="stylesheet" href="styles.css">
+<script type="text/javascript">
+function on()
+{
+
+document.getElementById('change').src='bulbon.jpg';
+}
+function off()
+{
+document.getElementById('change').src='bulboff.jpg';
+}
+</script>
+</head>
+<body>
+<h1>LINKS</h1>
+
+<button onclick="off()">TURN OFF</button>
+<img src="bulboff.jpg" id="change">
+<button onclick="on()">TURN ON</button>
+
+</body>
+</html>
