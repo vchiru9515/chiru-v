@@ -1,15 +1,17 @@
 
 body
 {
-	background-color:powderblue;
+	background-image:url('mbg.jpg');
     border:solid red;
     text-align:center; 
+
 }
 h1
 {
 	color:darkgreen;
-    border:dashed green;}
+    border:dashed green;
 }
+
 b
 {
 	font-size:30px;color:grey;
@@ -24,5 +26,18 @@ u
 }
 a
 {
-	font-size:100px;
+	font-size:110px;
+	
+}
+#f
+{
+	height: 100px;
+	width: 150px;
+	
+}
+#y
+{
+	height: 60px;
+	width: 100px;
+	border-radius: 25%;
 }
