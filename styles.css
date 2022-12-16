@@ -1,9 +1,10 @@
 
 body
 {
-	background-color:powderblue;
+	background-image:url('mbg.jpg');
     border:solid red;
     text-align:center; 
+
 }
 h1
 {
