@@ -1,2 +1,0 @@
-# chiru-v
-#komal
